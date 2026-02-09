@@ -106,10 +106,40 @@ I value clarity, ownership, and continuous improvement — both in systems and i
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alephdjcs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Lenguages" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Alephdjcs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alephdjcs&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Alephdjcs&show_icons=true&theme=dracula&hide_border=false&border_radius=8" height="160" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alephdjcs&layout=compact&theme=dracula&hide_border=false&border_radius=8" height="160" />
+
+<br/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Alephdjcs&theme=dracula&hide_border=false&border_radius=8" height="160" />
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alephdjcs&radius=16&theme=dracula&area=true" height="250" />
+
+<br/>
+
+<!-- Profile Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alephdjcs&theme=dracula" />
+
+<br/>
+
+<!-- Tech Stack Icons -->
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws,gcp,linux,jenkins,githubactions,prometheus,grafana,ansible,bash,python" />
+
+<br/>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=Alephdjcs&style=for-the-badge" />
+
 </div>
+
 
 ###
 
