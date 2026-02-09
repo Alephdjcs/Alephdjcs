@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Danilo Cerdas
+#  Hi, I'm Danilo Cerdas
 
-**DevOps / Site Reliability Engineer**  
+** Trilingual DevOps / Site Reliability Engineer**  
 Focused on automation, infrastructure reliability, and cloud-native systems built for real production environments.
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I work closely with enterprise production platforms where uptime, incident response, and system stability are critical.
 
@@ -113,7 +113,7 @@ I value clarity, ownership, and continuous improvement — both in systems and i
 
 ###
 
-## 📦 What You'll Find Here
+##  What You'll Find Here
 
 This GitHub focuses on **production-oriented DevOps projects**, not toy examples.
 
@@ -124,15 +124,6 @@ Repositories include:
 - Terraform-managed infrastructure  
 - Monitoring stacks using Prometheus and Grafana  
 - Operational patterns inspired by real incident handling  
-
----
-
-## 🎯 Current Focus
-
-- Deepening hands-on Kubernetes expertise  
-- Strengthening Terraform and cloud architecture patterns  
-- Building end-to-end DevOps environments simulating real production  
-- Applying SRE principles around reliability, automation, and observability  
 
 ---
 
