@@ -116,13 +116,6 @@ I value clarity, ownership, and continuous improvement — both in systems and i
 ---
 <div align="center">
 
-<br/>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Alephdjcs&theme=dracula&hide_border=false&border_radius=8" height="160" />
-
-<br/>
-
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=Alephdjcs&style=for-the-badge" />
