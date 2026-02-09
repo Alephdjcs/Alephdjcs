@@ -22,7 +22,7 @@ My background combines:
 
 
 
-> I value clarity, ownership, and continuous improvement — both in systems and in the way teams operate.
+I value clarity, ownership, and continuous improvement — both in systems and in the way teams operate.
 
 ###
 
@@ -67,8 +67,15 @@ My background combines:
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+
+  <a href="https://www.linkedin.com/in/cerdassd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+
+  <a href="https://discord.com/users/1411476239683682364" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+
 </div>
 
 ###
@@ -106,15 +113,6 @@ My background combines:
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alephdjcs/Alephdjcs/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alephdjcs/Alephdjcs/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alephdjcs/Alephdjcs/output/pacman-contribution-graph.svg">
-</picture>
-
-
 ## 📦 What You'll Find Here
 
 This GitHub focuses on **production-oriented DevOps projects**, not toy examples.
@@ -144,4 +142,14 @@ Based in Costa Rica
 Open to remote and international opportunities  
 
 ---
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alephdjcs/Alephdjcs/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alephdjcs/Alephdjcs/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alephdjcs/Alephdjcs/output/pacman-contribution-graph.svg">
+</picture>
+
+
 ###
