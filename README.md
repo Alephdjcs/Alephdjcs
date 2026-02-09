@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 
 <!-- Profile Summary Card -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alephdjcs&theme=dracula" />
@@ -123,10 +123,6 @@ I value clarity, ownership, and continuous improvement — both in systems and i
 
 <br/>
 
-<!-- Profile Summary Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alephdjcs&theme=dracula" />
-
-<br/>
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=Alephdjcs&style=for-the-badge" />
