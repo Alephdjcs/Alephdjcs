@@ -1,4 +1,28 @@
-<p align="left">My name is Danilo Cerdas, and I work as a DevOps / SRE engineer with a strong operations mindset. My focus is on automation, infrastructure reliability, and building cloud-native systems that can handle real production pressure.<br><br>I work closely with live enterprise environments where uptime, stability, and incident response are critical. I’m comfortable operating in situations where systems fail, logs need to be dissected, and root cause analysis matters. Reliability, for me, is not a buzzword — it’s the ability to understand failure patterns, respond effectively, and prevent recurrence through automation and structural improvements.<br><br>My background combines hands-on infrastructure troubleshooting, incident resolution, CI/CD pipeline design and debugging, and Infrastructure as Code using Terraform. I work with Kubernetes and Docker to manage containerized workloads, implement health checks and scaling strategies, and ensure resilient deployments. I also have exposure to AWS and GCP environments, supporting real platform operations rather than purely theoretical labs.<br><br>I’m particularly interested in Site Reliability Engineering practices — reducing operational toil, improving observability, tuning alerts to avoid noise, and designing systems that are measurable, scalable, and stable. I care about understanding how systems behave under load and how to design them so they fail gracefully.<br><br>On GitHub, I focus on production-oriented DevOps projects rather than toy examples. My repositories reflect real-world scenarios:<br><br>Kubernetes workloads with probes, autoscaling, and simulated failure testing<br><br>End-to-end CI/CD pipelines from build to deployment<br><br>Terraform-managed infrastructure<br><br>Monitoring stacks using Prometheus and Grafana<br><br>Operational patterns inspired by real incident handling<br><br>Right now, I’m deepening my hands-on expertise in Kubernetes and Terraform while continuing to apply SRE principles around reliability, automation, and observability.<br><br>I’m based in Costa Rica and open to remote or international opportunities. I’m looking for environments where engineering quality matters, where reliability is treated as a priority, and where I can continue growing as a platform and cloud reliability engineer.<br><br>I value clarity, ownership, and continuous improvement — both in systems and in the way teams operate.</p>
+# 👋 Hi, I'm Danilo Cerdas
+
+**DevOps / Site Reliability Engineer**  
+Focused on automation, infrastructure reliability, and cloud-native systems built for real production environments.
+
+---
+
+## 🧠 About Me
+
+I work closely with enterprise production platforms where uptime, incident response, and system stability are critical.
+
+Reliability, for me, is not a buzzword — it's the ability to understand failure patterns, perform deep root cause analysis, and prevent recurrence through automation and structural improvements.
+
+My background combines:
+
+- Hands-on infrastructure troubleshooting  
+- Incident response & RCA  
+- CI/CD pipeline design and debugging  
+- Infrastructure as Code using Terraform  
+- Kubernetes-based platform operations  
+- Cloud exposure in AWS and GCP  
+
+
+
+> I value clarity, ownership, and continuous improvement — both in systems and in the way teams operate.
 
 ###
 
@@ -48,7 +72,32 @@
 </div>
 
 ###
+---
 
+## 🛠 Technical Skills
+
+### 🚀 Infrastructure & Cloud
+- Terraform (Infrastructure as Code)
+- Kubernetes
+- Docker
+- AWS
+- GCP
+
+### 🔁 CI/CD & Automation
+- Git
+- GitHub Actions
+- Jenkins
+- Pipeline design & troubleshooting
+
+### 📊 Observability & Reliability
+- Prometheus
+- Grafana
+- Monitoring & alert tuning
+- Linux system administration
+- Platform operations
+- Failure analysis
+
+---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alephdjcs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Lenguages" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Alephdjcs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -65,4 +114,34 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alephdjcs/Alephdjcs/output/pacman-contribution-graph.svg">
 </picture>
 
+
+## 📦 What You'll Find Here
+
+This GitHub focuses on **production-oriented DevOps projects**, not toy examples.
+
+Repositories include:
+
+- Kubernetes workloads with probes, autoscaling, and simulated failure testing  
+- End-to-end CI/CD pipelines from build to deployment  
+- Terraform-managed infrastructure  
+- Monitoring stacks using Prometheus and Grafana  
+- Operational patterns inspired by real incident handling  
+
+---
+
+## 🎯 Current Focus
+
+- Deepening hands-on Kubernetes expertise  
+- Strengthening Terraform and cloud architecture patterns  
+- Building end-to-end DevOps environments simulating real production  
+- Applying SRE principles around reliability, automation, and observability  
+
+---
+
+## 🌎 Location
+
+Based in Costa Rica  
+Open to remote and international opportunities  
+
+---
 ###
