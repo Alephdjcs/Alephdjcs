@@ -77,15 +77,26 @@ I value clarity, ownership, and continuous improvement — both in systems and i
 
 <div align="center">
 
+  <h2>Danilo Cerdas | DevOps • Cloud • SRE</h2>
+
+  <p>
+    Building scalable systems | Automating everything | Obsessed with reliability
+  </p>
+
   <a href="https://www.linkedin.com/in/cerdasd/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Danilo_Linkedin&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://discord.com/users/1411476239683682364" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Danilo_Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/Discord-Tech%20Network-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
 </div>
+
 
 
 ###
