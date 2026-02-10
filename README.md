@@ -4,18 +4,16 @@
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alephdjcs&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Alephdjcs&show_icons=true&hide_border=true&bg_color=0f2027&title_color=2c5364&text_color=c9d1d9&icon_color=2c5364" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alephdjcs&layout=compact&hide_border=true&bg_color=0f2027&title_color=2c5364&text_color=c9d1d9" />
 
 <br><br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Alephdjcs&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alephdjcs&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Alephdjcs&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Alephdjcs&hide_border=true&background=0f2027&ring=2c5364&fire=2c5364&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
 
 </div>
+
 
 
 #  Hi, I'm Danilo Cerdas
