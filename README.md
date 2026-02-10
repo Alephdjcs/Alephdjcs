@@ -1,9 +1,16 @@
 <div align="center">
 
-<!-- Profile Summary Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alephdjcs&theme=dracula" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Danilo%20Cerdas&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20|%20Cloud%20|%20SRE&descAlignY=55&descAlign=50" />
 
-<br/>
+</div>
+
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alephdjcs&theme=tokyonight" />
+
+</div>
+
 
 </div>
 
