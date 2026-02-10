@@ -1,6 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Hi%2C+I+am+Dan+Cerdas;DevOps+Engineer;Cloud+%7C+SRE" />
+<!-- Animated Background Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a1b27,100:7f5af0&height=220&section=header&animation=fadeIn&duration=4000" />
+
+</div>
+
+<div align="center">
+
+<!-- Typing Name Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Hi%2C+I+am+Dan+Cerdas" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=C9D1D9&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+Cloud+%7C+SRE" />
 
 </div>
 
@@ -18,6 +30,7 @@
 <img src="https://streak-stats.demolab.com?user=Alephdjcs&theme=tokyonight&hide_border=true"/>
 
 </div>
+
 
 ---
 
