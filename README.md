@@ -91,7 +91,7 @@ I value clarity, ownership, and continuous improvement — both in systems and i
     <img src="https://img.shields.io/badge/Discord-Tech%20Network-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:dcerdassan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
