@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a1b27,100:7f5af0&height=220&section=header&text=Hi%2C%20I%20am%20Dan%20Cerdas&fontSize=40&fontColor=ffffff&animation=fadeIn&duration=6000&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud%20|%20SRE&descAlignY=60&descAlign=50" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Hi%2C+I+am+Dan+Cerdas;DevOps+Engineer;Cloud+%7C+SRE" />
 
 </div>
 
