@@ -1,35 +1,25 @@
 <div align="center">
 
-<!-- Animated Background Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a1b27,100:7f5af0&height=220&section=header&animation=fadeIn&duration=4000" />
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a1b27,100:7f5af0&height=200&section=header&animation=fadeIn&duration=4000" />
 
-</div>
+<!-- Animated Name -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Hi%2C+I+am+Dan+Cerdas" />
 
-<div align="center">
+<!-- Animated Role -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=C9D1D9&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+Cloud+%7C+SRE" />
 
-<!-- Typing Name Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Hi%2C+I+am+Dan+Cerdas" />
+<br/><br/>
 
-<br/>
+<strong>Trilingual DevOps / Site Reliability Engineer</strong><br/>
+Focused on automation, infrastructure reliability, and cloud-native systems built for real production environments.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=C9D1D9&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+Cloud+%7C+SRE" />
+<br/><br/>
 
-</div>
-
-<br/>
-
-<p align="center">
-  <strong>Trilingual DevOps / Site Reliability Engineer</strong><br/>
-  Focused on automation, infrastructure reliability, and cloud-native systems built for real production environments.
-</p>
-
-<br/>
-
-<div align="center">
-  
 <img src="https://streak-stats.demolab.com?user=Alephdjcs&theme=tokyonight&hide_border=true"/>
 
 </div>
+
 
 
 ---
