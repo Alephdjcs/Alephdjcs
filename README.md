@@ -78,11 +78,11 @@ I value clarity, ownership, and continuous improvement — both in systems and i
 <div align="center">
 
   <a href="https://www.linkedin.com/in/cerdasd/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=DaniloC&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=Danilo_Linkedin&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
 
   <a href="https://discord.com/users/1411476239683682364" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=Danilo_Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
   </a>
 
 </div>
