@@ -2,26 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Danilo%20Cerdas&fontSize=40&fontColor=ffffff&animation=fadeIn&duration=5000&fontAlignY=35&desc=DevOps%20Engineer%20|%20Cloud%20|%20SRE&descAlignY=55&descAlign=50" />
 
-</div>
+<br><br>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alephdjcs&theme=tokyonight" />
 
+<br><br>
 
-<div align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Alephdjcs&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alephdjcs&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alephdjcs&theme=github_dark" />
+<br><br>
 
-<br/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Alephdjcs&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alephdjcs&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Alephdjcs&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Alephdjcs&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-</div>
 
 #  Hi, I'm Danilo Cerdas
 
