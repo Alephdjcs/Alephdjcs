@@ -1,21 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7f5af0&height=200&section=header&text=Danilo%20Cerdas&fontSize=40&fontColor=ffffff&animation=fadeIn&duration=5000&fontAlignY=35&desc=DevOps%20Engineer%20|%20Cloud%20|%20SRE&descAlignY=55&descAlign=50" />
-
-
-
-<img src="https://streak-stats.demolab.com?user=Alephdjcs&theme=tokyonight&hide_border=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7f5af0&height=200&section=header&text=Hi%I%am%Danilo%20Cerdas&fontSize=40&fontColor=ffffff&animation=fadeIn&duration=5000&fontAlignY=35&desc=DevOps%20Engineer%20|%20Cloud%20|%20SRE&descAlignY=55&descAlign=50" />
 
 </div>
 
 
 
-
-#  Hi, I'm Danilo Cerdas
-
 ** Trilingual DevOps / Site Reliability Engineer**  
 Focused on automation, infrastructure reliability, and cloud-native systems built for real production environments.
 
+<div align="center">
+  
+<img src="https://streak-stats.demolab.com?user=Alephdjcs&theme=tokyonight&hide_border=true"/>
+
+</div>
 ---
 
 ##  About Me
