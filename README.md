@@ -163,8 +163,8 @@ Repositories include:
 
 ## 🌎 Location
 
-Based in Costa Rica  
-Open to remote and international opportunities  
+Based in Costa Rica 🇨🇷 
+Open to remote and international opportunities  🌐
 
 ---
 
