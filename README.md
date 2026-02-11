@@ -5,9 +5,11 @@
 </div>
 
 <br/>
-
 <p align="center">
-  <strong>Trilingual DevOps / Site Reliability Engineer</strong><br/>
+  <strong>
+    Trilingual DevOps / Site Reliability Engineer  
+    🇺🇸 English | 🇪🇸 Spanish | 🇧🇷 Portuguese
+  </strong><br/>
   Focused on automation, infrastructure reliability, and cloud-native systems built for real production environments.
 </p>
 
