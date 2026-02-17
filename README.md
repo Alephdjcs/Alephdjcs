@@ -27,7 +27,7 @@
 
 I work closely with enterprise production platforms where uptime, incident response, and system stability are critical.
 
-Reliability, for me, is not a buzzword — it's the ability to understand failure patterns, perform deep root cause analysis, and prevent recurrence through automation and structural improvements.
+Reliability, for me, is not a buzzword, it's the ability to understand failure patterns, perform deep root cause analysis, and prevent recurrence through automation and structural improvements.
 
 My background combines:
 
@@ -40,7 +40,7 @@ My background combines:
 
 
 
-I value clarity, ownership, and continuous improvement — both in systems and in the way teams operate.
+I value clarity, ownership, and continuous improvement in systems and in the way teams operate.
 
 ###
 
@@ -111,9 +111,9 @@ I value clarity, ownership, and continuous improvement — both in systems and i
 ###
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
-### 🚀 Infrastructure & Cloud
+### Infrastructure & Cloud
 - Terraform (Infrastructure as Code)
 - Kubernetes
 - Docker
