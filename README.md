@@ -30,18 +30,13 @@ I work closely with enterprise production platforms where uptime, incident respo
 Reliability, for me, is not a buzzword, it's the ability to understand failure patterns, perform deep root cause analysis, and prevent recurrence through automation and structural improvements.
 
 My background combines:
-
 - Hands-on infrastructure troubleshooting  
 - Incident response & RCA  
 - CI/CD pipeline design and debugging  
 - Infrastructure as Code using Terraform  
 - Kubernetes-based platform operations  
-- Cloud exposure in AWS and GCP  
-
-
-
-I value clarity, ownership, and continuous improvement in systems and in the way teams operate.
-
+- Cloud exposure in AWS and GCP
+  
 ###
 
 <div align="center">
@@ -85,9 +80,6 @@ I value clarity, ownership, and continuous improvement in systems and in the way
 ###
 
 <div align="center">
-
-  <h2>Danilo Cerdas | DevOps • Cloud • SRE</h2>
-
   <p>
     Building scalable systems | Automating everything | Obsessed with reliability
   </p>
@@ -114,11 +106,11 @@ I value clarity, ownership, and continuous improvement in systems and in the way
 ## Technical Skills
 
 ### Infrastructure & Cloud
-- Terraform (Infrastructure as Code)
+- Terraform
+- Ansible
 - Kubernetes
 - Docker
-- AWS
-- GCP
+- Cloud
 
 ### 🔁 CI/CD & Automation
 - Git
@@ -136,29 +128,13 @@ I value clarity, ownership, and continuous improvement in systems and in the way
 
 ---
 <div align="center">
-
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Alephdjcs&style=for-the-badge" />
-
+  <img src="https://komarev.com/ghpvc/?username=Alephdjcs&style=for-the-badge" />
 </div>
-
-
 
 ###
 
-##  What You'll Find Here
-
-This GitHub focuses on **production-oriented DevOps projects**, not toy examples.
-
-Repositories include:
-
-- Kubernetes workloads with probes, autoscaling, and simulated failure testing  
-- End-to-end CI/CD pipelines from build to deployment  
-- Terraform-managed infrastructure  
-- Monitoring stacks using Prometheus and Grafana  
-- Operational patterns inspired by real incident handling  
-
+##  Certifications
+- [Microsoft Certified: Azure Fundamentals(900)](https://learn.microsoft.com/api/credentials/share/en-us/dcerdassan/407E6D571CEDC8A0?sharingId=8AE8EE6756427760)
 ---
 
 ## 🌎 Location
