@@ -107,10 +107,7 @@ My background combines:
 
 [![Automation Infrastructure Framework](https://img.shields.io/badge/Project-Automation%20Infrastructure-blue?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/Alephdjcs/automation-infrastructureconfiguration-readytogo)
 
-**Automation Infrastructure Framework**  
 A production-ready Infrastructure as Code framework combining **Terraform provisioning** and **Ansible configuration management** with full multi-environment support (dev / test / prod).
-🔗 **Repository:**  
-https://github.com/Alephdjcs/automation-infrastructureconfiguration-readytogo
 
 ###
 ---
