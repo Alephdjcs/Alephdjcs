@@ -103,7 +103,24 @@ My background combines:
 
 </div>
 
+## 🏗 Infrastructure & Automation
 
+[![Automation Infrastructure Framework](https://img.shields.io/badge/Project-Automation%20Infrastructure-blue?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/Alephdjcs/automation-infrastructureconfiguration-readytogo)
+
+**Automation Infrastructure Framework**  
+A production-ready Infrastructure as Code framework combining **Terraform provisioning** and **Ansible configuration management** with full multi-environment support (dev / test / prod).
+
+### 🔍 Architecture Highlights
+
+- 🏗 Modular Terraform design (Networking · Security · Compute)
+- 🔐 IP-restricted SSH access with dynamic security groups
+- 🔄 Dynamic Ansible inventory generation (Terraform → Ansible bridge)
+- 🛠 Layered configuration (Baseline → Docker → Kubernetes)
+- 🧪 Automated post-deployment health checks
+- 🚀 End-to-end orchestration via custom deployment scripts
+
+🔗 **Repository:**  
+https://github.com/Alephdjcs/automation-infrastructureconfiguration-readytogo
 
 ###
 ---
