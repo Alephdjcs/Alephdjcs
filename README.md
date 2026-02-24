@@ -9,6 +9,11 @@
   <strong>Trilingual DevOps / Site Reliability Engineer</strong><br/>
   🇺🇸 English &nbsp;|&nbsp; 🇪🇸 Spanish &nbsp;|&nbsp; 🇧🇷 Portuguese<br/><br/>
   Focused on automation, infrastructure reliability, and cloud-native systems built for real production environments.
+  <br/><br/>
+  Learn more about Danilo via 
+  <a href="https://deepwiki.com/Alephdjcs/Alephdjcs/3-certifications-and-credentials">
+    DeepWiki Documentation
+  </a>.
 </p>
 <br/>
 
