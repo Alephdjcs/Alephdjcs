@@ -86,7 +86,7 @@ My background combines:
 
 <div align="center">
   <p>
-    Building scalable systems | Automating everything | Obsessed with reliability
+    
   </p>
 
   <a href="https://www.linkedin.com/in/cerdasd/" target="_blank">
