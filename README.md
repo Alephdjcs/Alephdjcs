@@ -103,7 +103,7 @@ My background combines:
 
 </div>
 
-## Infrastructure & Automation
+## Projects
 
 [![Automation Infrastructure Framework](https://img.shields.io/badge/Project-Automation%20Infrastructure-blue?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/Alephdjcs/automation-infrastructureconfiguration-readytogo)
 
