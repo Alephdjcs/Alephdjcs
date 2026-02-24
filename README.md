@@ -120,13 +120,11 @@ A production-ready Infrastructure as Code framework combining **Terraform provis
 - Kubernetes
 - Docker
 - Cloud
-
 ### 🔁 CI/CD & Automation
 - Git
 - GitHub Actions
 - Jenkins
 - Pipeline design & troubleshooting
-
 ### 📊 Observability & Reliability
 - Prometheus
 - Grafana
@@ -142,14 +140,25 @@ A production-ready Infrastructure as Code framework combining **Terraform provis
 
 ###
 
-##  Certifications
-- [Microsoft Certified: Azure Fundamentals(900)](https://learn.microsoft.com/api/credentials/share/en-us/dcerdassan/407E6D571CEDC8A0?sharingId=8AE8EE6756427760)
----
+## 🏅 Certifications
+
+- 🌐 **CCNA: Enterprise Networking, Security, and Automation – Cisco**  
+  Issued by: Cisco: https://www.credly.com/badges/a07029fe-b393-4dfd-b04c-8dd41c115a12/public_url
+
+- 🔐 **Cybersecurity Fundamentals – IBM SkillsBuild**  
+  Issued by: IBM: https://www.credly.com/badges/848f8a4e-78e6-4096-9533-ee212dcd55e2/public_url
+
+- 📦 **HashiCorp Certified: Terraform Associate (003)**  
+  Issued by: HashiCorp: https://www.credly.com/badges/5a091fe0-33b9-4598-b26d-3da55a5240e3/public_url
+
+- ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- Issued by: Microsoft: https://learn.microsoft.com/api/credentials/share/en-us/dcerdassan/407E6D571CEDC8A0?sharingId=8AE8EE6756427760
+
+- 🐍 **Python Essentials (PCEP) *  
+  Issued by: Cisco: https://www.credly.com/badges/4bf706e3-ec96-4ec7-84fd-6db795bd90f6/public_url
 
 ## 🌎 Location
-
-Based in Costa Rica 🇨🇷 
-Open to remote and international opportunities  🌐
+Based in Costa Rica 🇨🇷 but open to remote and international opportunities  🌐
 
 ---
 
