@@ -154,7 +154,7 @@ A production-ready Infrastructure as Code framework combining **Terraform provis
 - ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**
 - Issued by: Microsoft: https://learn.microsoft.com/api/credentials/share/en-us/dcerdassan/407E6D571CEDC8A0?sharingId=8AE8EE6756427760
 
-- 🐍 **Python Essentials (PCEP) ** 
+- 🐍 **Python Essentials (PCEP)** 
   Issued by: Cisco: https://www.credly.com/badges/4bf706e3-ec96-4ec7-84fd-6db795bd90f6/public_url
 
 ## 🌎 Location
